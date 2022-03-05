@@ -1,5 +1,0 @@
-Hello World!
-Still testing GitHub basics.
-
-Now I'm going to try to leave a commit message with using the -m tag.
-First attempt failed. Trying again.
